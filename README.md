@@ -1,11 +1,10 @@
 ## Hi there, I´m Shar 👋
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://aristi.dev">SharQF</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
 
-[![LinkedInl Profile](https://img.shields.io/LinkedIn/Profile/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://https://www.linkedin.com/in/charlyn-quesada-fern%C3%A1ndez/)
+[![LinkedInl Profile](https://img.shields.io/LinkedIn/Profile/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.linkedin.com/in/charlyn-quesada-fern%C3%A1ndez/)
 
 ## Sobre Mí:
 
