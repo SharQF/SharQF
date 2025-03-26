@@ -2,8 +2,6 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">SharQF</a> 👋</h1>
 </div>
 
-[![LinkedIn Profile]( https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/charlyn-quesada-fern%C3%A1ndez/)
-
 ## Sobre Mí:
 
 -💡 Apasionada por la tecnología y emocionada por iniciar mi camino profesional como QA Engineer.
@@ -15,3 +13,16 @@
 -📝 Lo que realmente me apasiona es la documentación y el diseño de pruebas: crear casos de prueba, listas de comprobación y estrategias de testing que garanticen la calidad del software. Me encanta estructurar y organizar procesos para optimizar el flujo de trabajo y asegurarme de que cada detalle esté cubierto.
 
 -🚀 Siempre estoy en busca de nuevos desafíos que me permitan seguir aprendiendo y mejorando mis habilidades en el mundo del testing.
+
+-Te dejo mi contacto:[![LinkedIn Profile]( https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/charlyn-quesada-fern%C3%A1ndez/)
+
+-![WhatsApp](https://img.shields.io/badge/WthasApp-green) 📱+506 86730370 🇨🇷
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+
+<div id="header" align="left">
+   
+   [![My Skills](https://skillicons.dev/icons?i=py,postman,java,github,selenium)](https://skillicons.dev)
+ 
+ </div>
+
