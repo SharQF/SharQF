@@ -18,6 +18,8 @@
 
 -![WhatsApp](https://img.shields.io/badge/WthasApp-green) 📱+506 86730370 🇨🇷
 
+-📫 charqf25@gmail.com
+
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
 <div id="header" align="left">
