@@ -1,10 +1,8 @@
-## Hi there, I´m Shar 👋
-
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">SharQF</a> 👋</h1>
 </div>
 
-[![LinkedInl Profile](https://img.shields.io/LinkedIn/Profile/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.linkedin.com/in/charlyn-quesada-fern%C3%A1ndez/)
+[![LinkedIn Profile]( https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/charlyn-quesada-fern%C3%A1ndez/)
 
 ## Sobre Mí:
 
