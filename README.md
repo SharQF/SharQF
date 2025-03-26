@@ -24,7 +24,7 @@
 
 <div id="header" align="left">
    
-   [![My Skills](https://skillicons.dev/icons?i=py,postman,jira,github,selenium)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,postman,github,selenium)](https://skillicons.dev)
  
  </div>
 
